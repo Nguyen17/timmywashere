@@ -1,4 +1,8 @@
 #!/usr/bin/env node
+// console.clear is not crossplatform
+// console.clear();
+const clearConsole = require('clear-any-console');
+clearConsole();
 console.log(`
 TIMMYWASHERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
