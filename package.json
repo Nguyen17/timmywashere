@@ -1,0 +1,25 @@
+{
+  "name": "timmywashere",
+  "version": "1.0.0",
+  "description": "timmy was here",
+  "main": "index.js",
+  "bin": {
+    "timmywashere": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nguyen17/timmywashere.git"
+  },
+  "keywords": [
+    "timmywashere"
+  ],
+  "author": "Timmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nguyen17/timmywashere/issues"
+  },
+  "homepage": "https://github.com/Nguyen17/timmywashere#readme"
+}
